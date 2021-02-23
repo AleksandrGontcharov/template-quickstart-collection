@@ -1,11 +1,11 @@
 # Template Quick Start Collection
 
-A collection of templates for MLAS.
+A collection of templates all in one place for various technologies.
 
 ## Contributing
 Pull requests are welcome. 
 
 ## Authors and acknowledgment
 
-Created by Aleksandr Gontcharov with support by Jason Carayanniotis.
+Created by Aleksandr Gontcharov.
 
